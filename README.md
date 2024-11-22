@@ -6,6 +6,7 @@
 - Se establecieron secciones junto a sus id (section id="contacto"), párrafos (p), encabezados (h) y una fotografía mía.
 - Se utilizaron listas para organizar la información.
 - Se añadieron links para contacto teléfonico, por correo y al instagram de la tienda en que trabajo.
+- Se añadió un footer.
   
 ## Cambios realizados para Entrega B
 
