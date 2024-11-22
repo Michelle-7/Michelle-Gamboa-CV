@@ -34,7 +34,7 @@
    - Los enlaces al número de teléfono, correo y al instagram de la tienda **Wonder Doll Store**, fueron configurados para tener un color morado **(#6a0dad)** con un efecto ***hover***, que subraya el texto al pasar el cursor por encima. Esta característica la conocí consultando a ChatGpt, pues es común en sitios web y quería aplicarla en este caso para que se notara que existe un link.
 
 ## 6. Texto alternativo:
-   - Con **'alt='** después de mi fotografía añadí un texto alternativo por temas de accesibilidad y en caso de que la imagen no cargue bien se pueda leer la descripción al pasar el mouse por encima.
+   - Con **'alt='** después de mi fotografía añadí un texto alternativo por temas de accesibilidad o en caso de que la imagen no cargue bien.
 
 ## 7. Archivo CSS:
    - **Fondo de la página:** Se configuró un fondo rosado claro para toda la página utilizando **'background-color: #fff5f7;'**
